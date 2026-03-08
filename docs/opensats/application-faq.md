@@ -128,9 +128,9 @@ OpenSats는 미국 텍사스주에 등록된 501(c)(3) 공익 자선단체입니
 
 ### [](#i-have-a-question-that-isnt-covered-here-what-do-i-do)여기에 없는 질문이 있으면 어떻게 하나요?
 
-[일반 FAQ](/faq)를 확인해 보시기 바랍니다. 궁금한 점에 대한 답변이 있을 수 있습니다.
+일반 FAQ를 확인해 보시기 바랍니다. 궁금한 점에 대한 답변이 있을 수 있습니다.
 
-신청 관련 모든 문의는 [support@opensats.org](mailto:support@opensats.org)로 보내주시기 바랍니다. 자세한 내용은 [연락처 페이지](/contact)를 참고해 주시기 바랍니다.
+신청 관련 모든 문의는 [support@opensats.org](mailto:support@opensats.org)로 보내주시기 바랍니다. 자세한 내용은 연락처 페이지를 참고해 주시기 바랍니다.
 
 ## [](#footnote-label)각주
 

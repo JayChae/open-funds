@@ -47,7 +47,7 @@ title: FAQ
 여러 가지 방법으로 기부하실 수 있습니다:
 
 - [opensats.org/monthly](https://adtjkuks.donorsupport.co/page/opensats)에서 하나 이상의 기금에 정기 기부를 설정할 수 있습니다.
-- [opensats.org/donate](/donate)에서 비트코인 또는 법정화폐로 일회성 기부를 하실 수 있으며, 계좌 이체 또는 기부자 조언 기금(DAF)을 통한 기부 방법도 안내되어 있습니다.
+- [opensats.org/donate](https://opensats.org/donate)에서 비트코인 또는 법정화폐로 일회성 기부를 하실 수 있으며, 계좌 이체 또는 기부자 조언 기금(DAF)을 통한 기부 방법도 안내되어 있습니다.
 - nostr 사용자의 경우, 프로필의 라이트닝 주소를 `opensats@vlt.ge`로 설정하면 받으시는 Zap이 OpenSats로 전달됩니다.
 - Podcasting 2.0의 경우, [OpenSats Lightning 노드](https://terminal.lightning.engineering/explore/037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09)를 streaming-sats 대상으로 추가하세요.
 
@@ -63,7 +63,7 @@ title: FAQ
 
 ## [](#how-can-i-communicate-with-you)어떻게 연락할 수 있나요?
 
-[문의하는](/contact) 가장 좋은 방법은 이메일입니다:
+문의하는 가장 좋은 방법은 이메일입니다:
 
 - [support@opensats.org](mailto:support@opensats.org)
 
