@@ -6,7 +6,7 @@ hero:
   tagline: 사명 분석, 선정 절차, 신청 전략을 한눈에
   actions:
     - theme: brand
-      text: 신청 준비 가이드
+      text: 신청 가이드
       link: /guide/how-to-apply
     - theme: alt
       text: 합격 공략 분석
