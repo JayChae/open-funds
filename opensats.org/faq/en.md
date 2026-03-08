@@ -1,0 +1,131 @@
+# FAQ - OpenSats
+
+Frequently asked questions:
+
+- [What are you doing at OpenSats?](#what-are-you-doing-at-opensats)
+- [How are funds distributed?](#how-are-funds-distributed)
+- [How much of my donation goes towards open-source contributors?](#how-much-of-my-donation-goes-towards-open-source-contributors)
+- [How can I donate to OpenSats?](#how-can-i-donate-to-opensats)
+- [Do you distribute grants in bitcoin or fiat?](#do-you-distribute-grants-in-bitcoin-or-fiat)
+- [How do you collect bitcoin donations?](#how-do-you-collect-bitcoin-donations)
+- [How can I communicate with you?](#how-can-i-communicate-with-you)
+- [How often are funding opportunities announced?](#how-often-are-funding-opportunities-announced)
+- [How do I apply for funding?](#how-do-i-apply-for-funding)
+- [When is the best time to apply?](#when-is-the-best-time-to-apply)
+- [How did you choose the board?](#how-did-you-choose-the-board)
+- [Do board members benefit financially from donations?](#do-board-members-benefit-financially-from-donations)
+- [Tell me more about your board. How does it work?](#tell-me-more-about-your-board-how-does-it-work)
+- [Are you really 100% passthrough?](#are-you-really-100-passthrough)
+- [Are my donations tax deductible?](#are-my-donations-tax-deductible)
+
+## [](#what-are-you-doing-at-opensats)What are you doing at OpenSats?
+
+**Open Sats Initiative, Inc. (EIN 85-2722249) is a 501(c)(3) public charity which aims to fund Bitcoin-related free and open-source projects and associated education and research initiatives.**
+
+We want to see contributors to Bitcoin Core and FOSS (free and open-source) tools supported by a sustainable ecosystem and consistent funding, so we set up an initiative to do just that. Donors can come to the OpenSats website and either recommend gifts to specific project areas or contribute to our general fund.
+
+We distribute grants to a wide variety of contributor types (developers, designers, researchers, educators, reviewers...), but only to those working on Bitcoin and open-source projects that will improve public access to Bitcoin infrastructure.
+
+## [](#how-are-funds-distributed)How are funds distributed?
+
+Donations to the general fund will be distributed periodically by our board. We evaluate and assess applications to make sure any grants are awarded to high impact projects in the Bitcoin space.
+
+You can find a list of past and active grantees, as well as links to our reports at our [transparency](/transparency) section.
+
+## [](#how-much-of-my-donation-goes-towards-open-source-contributors)How much of my donation goes towards open-source contributors?
+
+100%. All donations to our open-source funds go in full to OpenSats grant recipients. We do not take a cut from donations and try our best to find donor matching partners that cover the transaction fees that incur with each donation, regardless of payment method.
+
+Please [reach out](mailto:support@opensats.org) if you want to help us cover these costs.
+
+## [](#how-can-i-donate-to-opensats)How can I donate to OpenSats?
+
+You can donate in several ways:
+
+- Set up a recurring donation to one or more of our funds at [opensats.org/monthly](https://adtjkuks.donorsupport.co/page/opensats).
+- Make a one-time bitcoin or fiat donation at [opensats.org/donate](/donate), where you’ll also find details on giving via wire transfer or Donor-Advised Fund (DAF).
+- For nostr users, set `opensats@vlt.ge` as the lightning address in your profile so that any Zaps you receive are directed to OpenSats.
+- For Podcasting 2.0, add the [OpenSats Lightning node](https://terminal.lightning.engineering/explore/037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09) as one of your streaming-sats targets.
+
+## [](#do-you-distribute-grants-in-bitcoin-or-fiat)Do you distribute grants in bitcoin or fiat?
+
+We only distribute grants in bitcoin.
+
+We accept donations in fiat currency, but they are transferred to our exchange partner and used to purchase bitcoin. The bitcoin is then held and eventually distributed to grant recipients.
+
+## [](#how-do-you-collect-bitcoin-donations)How do you collect bitcoin donations?
+
+We use BTCPay Server to collect bitcoin donations, both on-chain and lightning. This ensures that we pay as little fees as possible so your funds are stretched even farther.
+
+## [](#how-can-i-communicate-with-you)How can I communicate with you?
+
+The best way to [contact us](/contact) is via email:
+
+- [support@opensats.org](mailto:support@opensats.org)
+
+You can also write to us at:
+
+```
+Open Sats Initiative, Inc.
+42041 Cypress Parkway #4-207
+Punta Gorda, FL 33982
+```
+
+## [](#how-often-are-funding-opportunities-announced)How often are funding opportunities announced?
+
+Funding opportunities are announced as they arise, depending on funding availability. Projects that align with [our mission statement](/mission) are encouraged to apply. Board members evaluate each application based on technical merit, potential impact, and the team's ability to execute.
+
+All projects should be free and open-source and related to Bitcoin or an ancillary technology (like Tor, etc.) which helps Bitcoin use. Your project must align with the mission of our charity to be eligible for donations.
+
+## [](#how-do-i-apply-for-funding)How do I apply for funding?
+
+Any project that is free and open-source and is aligned with the OpenSats mission is free to [submit an application](/apply).
+
+All applications which fulfill the [criteria](/apply#criteria) will be evaluated by [the Board](/about#board-of-directors). Upon board approval and collection of necessary supplemental data, approved projects might be showcased on the OpenSats website. Please refer to our dedicated [Application FAQ](/faq/application) for additional information pertaining to applications.
+
+## [](#when-is-the-best-time-to-apply)When is the best time to apply?
+
+We are continually evaluating applications and are reviewing grant proposals as described in our [grant selection](/selection) process.
+
+You are free to apply at any time except for the months of March, June, September, and December, where we close applications to make internal improvements and do some housekeeping.
+
+If you are helping Bitcoin and FOSS, please [submit an application](/apply) on our website.
+
+## [](#how-did-you-choose-the-board)How did you choose the board?
+
+We didn't want any one person or small group to have control of the decision making process of OpenSats, so we created a transparent, public-facing, and accountable nine person board to make all organizational decisions.
+
+OpenSats' board members have deep-seated values and will stop at nothing to support and ensure the survival of free and open-source technology like Bitcoin.
+
+[The board](/about#board-of-directors) is composed of well-known and respected public-facing individuals who will carry the torch and be held accountable for their choices. We encourage community feedback, dialogue, and constructive criticism. We can only promise to do our best to ensure that all funds go to deserving projects which support OpenSats' mission of creating a sustainable and consistent ecosystem of funding for Bitcoin and Bitcoin-related FOSS contributors.
+
+## [](#do-board-members-benefit-financially-from-donations)Do board members benefit financially from donations?
+
+No. Board members are not compensated for their board member duties and do not benefit from donations given to our funds. Board member duties are performed on a volunteer basis.
+
+## [](#tell-me-more-about-your-board-how-does-it-work)Tell me more about your board. How does it work?
+
+We have [nine board members](/about#board-of-directors) and we vote by majority. All standard decisions (like which new projects are added to the website or which projects will receive grants allocated from the general fund) are made by simple majority (5-4), while board-related changes will require 6-3 majority. New members to the board will be announced publicly.
+
+## [](#are-you-really-100-passthrough)Are you really 100% passthrough?
+
+Yes, really. We have an operational budget to cover lawyers, accountants, and basic operational costs, but they aren't paid from your donations to projects. Our operational costs are covered by generous donors who regularly donate to our [Operations Budget](/funds/ops).
+
+- John Pfeffer, Greg Foss, Ten31, #startsmall, and The Bitcoin Company have contributed to our legal and operational overhead or contributed technical development resources so OpenSats can stay 100% passthrough for all donations directed to our General Fund and Nostr Fund.
+- BTCPay Server is a FOSS tool we use to accept bitcoin with no fees.
+- Unchained provides our bitcoin exchange services with reduced fees.
+- Unchained also provides our multi-sig custody services with no fees.
+
+We are committed to remaining a 100% passthrough operation, meaning that we are passing on 100% of donations made to our funds to open-source contributors. To this day our operational, legal, and payment processing fees have been graciously and privately funded.
+
+Please [consider donating](/funds/ops) to the Operations Budget which will help cover our basic operational expenses (which we have kept to a minimum) so we can ensure that all donations intended for Bitcoin and FOSS projects remain 100% passthrough.
+
+## [](#are-my-donations-tax-deductible)Are my donations tax deductible?
+
+Yes, Open Sats Initiative, Inc. (EIN 85-2722249) is a 501(c)(3) non-profit organization. All gifts and donations are tax-deductible to the full extent of the law.
+
+If you would like to receive a tax deduction, we may need to collect supplementary information like your name and email for required recordkeeping purposes.
+
+OpenSats relies on donors like you to help promote and support a sustainable ecosystem of contributors to Bitcoin and related free and open-source projects. We greatly appreciate your contributions.
+
+Visit [opensats.org/donate](/donate) for more information on donations.
