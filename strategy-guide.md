@@ -72,7 +72,7 @@ OpenSats는 크게 세 가지 기금을 운영합니다:
 | **Nostr 기금 (Nostr Fund)** | Nostr 프로토콜 관련 프로젝트 | $10,000,000+ |
 | **운영 예산 (Ops Budget)** | 법률, 회계, 운영비 | 별도 운영 |
 
-[근거: 기금 배분 규모](opensats.org/reviews/2025/ko.md) 52행
+[근거: 기금 배분 규모](opensats.org/reviews/2025/ko.md) 
 
 ### 3.2 지원금 유형
 
