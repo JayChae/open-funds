@@ -6,7 +6,7 @@ export default defineConfig({
 
   // GitHub Pages 배포 시 레포 이름에 맞게 설정
   // 예: https://<user>.github.io/opensats/
-  base: '/opensats/',
+  base: '/open-funds/',
 
   lastUpdated: false,
 
